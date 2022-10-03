@@ -68,7 +68,7 @@ Review the changes in the Pull Request and then Create Pull Request.
 6)You can also head over to <a href="https://github.com/codedamn/codedamn-hacktoberfest-projects">Codedamn Repo</a> to make further contributions.
     
 
-## Make sure to vist <a href="https://codedamn.com/referred-by/ajinkyab">Codedamn</a> to get great free learning resources for web development.     
+## Make sure to visit <a href="https://codedamn.com/referred-by/ajinkyab">Codedamn</a> to get great free learning resources for web development.     
 
 </div>
 
