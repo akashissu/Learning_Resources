@@ -1,4 +1,4 @@
-<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
+<img src="https://repository-images.githubusercontent.com/300799247/9dc84b95-dfaf-47eb-9324-0240028a3b42">
 
 # HacktoberFest Repository (🌟 Star this repository!🌟)
 This is a Hacktoberfest-Repository,feel free to make your contributions here this month to win your swagss!!Happy Coding! :)
@@ -8,7 +8,7 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 👉 <a href="https://hacktoberfest.digitalocean.com/">Official HacktoberFest Page</a> 👈
 
-## 👕 Contribute to open-soucre and grab your Hacktoberfest schwags ( Free T-Shirt & Goodies).
+## 👕 Contribute to open-soucre and grab your Hacktoberfest swags ( Free T-Shirt & Goodies).
 You need to create 4 Pull Request (PR) to grab goodies.
 
 
