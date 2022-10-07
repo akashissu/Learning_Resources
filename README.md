@@ -1,21 +1,22 @@
-<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
+# HacktoberFest 2022 Repository
+### This is a Hacktoberfest-Repository,feel free to make your contributions here this month to win your swags!
 
-# HacktoberFest Repository (🌟 Star this repository!🌟)
-This is a Hacktoberfest-Repository,feel free to make your contributions here this month to win your swagss!!Happy Coding! :)
+
+![image](https://user-images.githubusercontent.com/64553247/194567913-5afe7d1a-1c13-4223-90cd-2b0c05680339.png)
 
 ## 💡 What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 👉 <a href="https://hacktoberfest.digitalocean.com/">Official HacktoberFest Page</a> 👈
 
-## 👕 Contribute to open-soucre and grab your Hacktoberfest schwags ( Free T-Shirt & Goodies).
+## 👕 Contribute to open-soucre and grab your Hacktoberfest schwags ( Free T-Shirt & Stickers).
 You need to create 4 Pull Request (PR) to grab goodies.
 
 
 ![image](https://user-images.githubusercontent.com/64553247/136261073-a6cf1ead-4c46-4f80-ae2e-739f036c6971.png)
 
 
-Not sure how to do your first Pull Request? No worries, lets get you started.
+### Not sure how to do your first Pull Request? No worries, lets get you started.
 
 
 ### 👣 Steps to Make your 1st PR Contribution:
@@ -30,7 +31,7 @@ Not sure how to do your first Pull Request? No worries, lets get you started.
 </div>
 
 <div align="left">
-    2) Click on Add File button and select Create new file button in your personal copy of this repository(forked repo) or you can add file by dragging and dropping files from your PC in the upload files window.
+       <pre>2) Click on Add File button and select Create new file button in your personal copy of this repository(forked repo) or you can add file by dragging and dropping files from your PC in the upload files window.   </pre>
 </div>
 
 ![image](https://user-images.githubusercontent.com/62661565/136341754-d8ee19c4-ffe6-41c4-bcd9-0215ef23272e.png)
@@ -61,16 +62,14 @@ Refer <a href="https://github.com/ajinkyabodke/CPP-Java_Resorces/blob/main/guide
 
 Review the changes in the Pull Request and then Create Pull Request.
 
-4) Once you successfully submit the Pull Request,our team would verify it and merge it.
+Once you successfully submit the Pull Request,our team would verify it and merge it.
 
-5) Happy Contributing! :)
+### Happy Contributing! :)
     
-6)You can also head over to <a href="https://github.com/codedamn/codedamn-hacktoberfest-projects">Codedamn Repo</a> to make further contributions.
-    
-
-## Make sure to visit <a href="https://codedamn.com/referred-by/ajinkyab">Codedamn</a> to get great free learning resources for web development.     
-
 </div>
+
+   ### Beginner friendly repository for Hacktoberfest : <a href="https://github.com/viveeeeeek/1sthacktoberfest/">1stHacktoberfest</a>
+   
 
 <div align="center">
     <pre>Stargazers</pre>
