@@ -1,3 +1,4 @@
+<img src="https://repository-images.githubusercontent.com/300799247/9dc84b95-dfaf-47eb-9324-0240028a3b42">
 # HacktoberFest 2022 Repository
 ### This is a Hacktoberfest-Repository,feel free to make your contributions here this month to win your swags!
 
@@ -9,7 +10,8 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 👉 <a href="https://hacktoberfest.digitalocean.com/">Official HacktoberFest Page</a> 👈
 
-## 👕 Contribute to open-soucre and grab your Hacktoberfest schwags ( Free T-Shirt & Stickers).
+## 👕 Contribute to open-soucre and grab your Hacktoberfest swags ( Free T-Shirt & Goodies).
+
 You need to create 4 Pull Request (PR) to grab goodies.
 
 
