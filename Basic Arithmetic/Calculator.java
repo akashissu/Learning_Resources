@@ -18,7 +18,7 @@ public class Calculator{
         System.out.print("Enter second number:");
         num2 = scanner.nextDouble();
 
-        System.out.print("Enter an operator (+, -, *, /): ");
+        System.out.print("Enter an operator (+, -, *, /, %): ");
         char operator = scanner.next().charAt(0);
 
         scanner.close();
@@ -40,6 +40,9 @@ public class Calculator{
 
             case '/':
             	output = num1 / num2;
+                break;
+            case '%':
+                output = num1 / num2;
                 break;
 
             /* If user enters any other operator or char apart from
