@@ -1,34 +1,11 @@
-class Solution {
-public:
-    bool palindrome(string st){
-        int i=0;
-        int j=st.length()-1;
-        while(i<j){
-            if(st[i]!=st[j]){
-                return false;
-            }
-            else{
-                i++;
-                j--;
-            }
-        }
-        return true;
+bool isPalindrome(string s) {
+    for (int i = 0, j = s.size() - 1; i < j; i++, j--) { // Move 2 pointers from each end until they collide
+        while (isalnum(s[i]) == false && i < j) i++; // Increment left pointer if not alphanumeric
+        while (isalnum(s[j]) == false && i < j) j--; // Decrement right pointer if no alphanumeric
+        if (toupper(s[i]) != toupper(s[j])) return false; // Exit and return error if not match
     }
-    bool isPalindrome(string s) {
-        string str="";
-        for(int i=0;i<s.length();i++){
-            if(isupper(s[i])){
-                
-                str+=char(s[i]+32);
-            }
-            else if(islower(s[i])){
-                str+=s[i];
-            }
-            else if(isdigit(s[i])){
-                str+=s[i];
-            }
-        }
-        return palindrome(str);
-        
-    }
-};
+    
+    return true;
+}
+
+// updated by Malay Shah
