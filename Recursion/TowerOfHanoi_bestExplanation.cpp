@@ -1,15 +1,12 @@
 /* -----------------------------------Tower of Hanoi-----------------------------------
   Initially there are N no of disc present in tower A in from smaller at the top to bigger at the bottom
   (Disc size is in decreasing fom top to bottom or increasing from bottom to top).
-
 In this there are three towers : A - tower at which the whole disc is present at first
                                  B - an auxilary tower i.e. used to move disc from tower A to C
                                  C - last tower at which the disc has to be finally placed 
                                      in the same manner as present in tower A
-
                        Aim : The aim of this game is to move all the disc from tower A to C with the help of
                               auxilary tower B 
-
          Rules : * Only one disc can be move at a time from one tower to another.
                  * Larger disc cannot be placed on a smaller disc at any time
                                                     
